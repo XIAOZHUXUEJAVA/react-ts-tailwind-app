@@ -1,7 +1,7 @@
 
 import { AccordionItem } from "./types/Accordion";
 
-const data: AccordionItem[] = [
+const accordionData: AccordionItem[] = [
   {
     id: '1',
     question: "What are accordion components?",
@@ -28,4 +28,4 @@ const data: AccordionItem[] = [
   },
 ];
 
-export default data;
+export default accordionData;
